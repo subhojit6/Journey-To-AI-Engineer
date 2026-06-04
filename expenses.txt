@@ -1,5 +1,7 @@
-pizza,200,food
-bus,20,travel
-shirt,300,clothes
-pant,400,clothes
-auto,80,travel
+pizza,100,food
+burger,200,food
+shirt,500,clothes
+train,1000,travel
+pants,500,clothes
+bus,500,travel
+cookie,10,food
