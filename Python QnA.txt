@@ -1,0 +1,13 @@
+Q. Why not install packages globally?
+Ans: Updating to new newer versions of a package could break the old code. so we keep a note of the version which we are using and 
+not directly install packages globally.
+
+Q. What problem does venv solve?
+Ans. Create a virtual environment to install the required packages and save it.
+
+Q.What is pip?
+Ans. It is just a standard installation tool for python.
+
+Q. Why requirements.txt exists?
+Ans. It is used to store the packages which has been used with the exact version to be installed in order to run that code without any errors
+
